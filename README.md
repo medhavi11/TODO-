@@ -8,7 +8,8 @@ The project is about building todo list where user can add, delete, retrieve the
   ---
   
   ### PREVIEW ❤️
-  ![Screenshot (566)](https://user-images.githubusercontent.com/63841527/105190375-f1b11d00-5b5b-11eb-81fc-a7fd34967c69.png)
+  ![Screenshot] Screenshot 2021-05-05 at 6.58.40 PM.png
+
     
   *HIT THE STAR*⭐ 
  
