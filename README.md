@@ -2,7 +2,7 @@
 This is a mini webdev project for absolute beginners to have hands-on experience working with CSS and Javascript.
  
  ## ABOUT 🖥️
-The project is about building todo list where user can add, delete, retrieve the task. All the task will be stored in localstorage in web browser.The localStorage object stores data with no expiration date. The data will not be deleted when the browser is closed, and will be available the next day, week, or year.
+The project is about building blurry loading page. The loading value goes from 0 to 100% with image coming into focus.
    
     
   ---
